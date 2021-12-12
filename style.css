@@ -1,0 +1,20 @@
+marquee {
+    font-size: 50px;
+}
+body{
+    background-size: cover  ;
+}
+.adi{
+    height: 50px;
+    width: 140px;
+    font-size: 80px;
+}
+
+.heading{
+    font-size:70px;
+    font-family: 'Shadows Into Light', cursive;
+    background-color:lightblue  ;
+}
+#adi2{
+    visibility:hidden;
+}
